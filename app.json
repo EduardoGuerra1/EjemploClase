@@ -7,7 +7,7 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/burger.png",
+      "image": "https://clipground.com/images/konoha-png-7.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#FFFAAA"
     },

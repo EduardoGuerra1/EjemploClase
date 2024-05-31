@@ -175,16 +175,16 @@ const styles = StyleSheet.create({
     paddingHorizontal: 10,
   },
   section: {
-    marginBottom: 10,
+    marginBottom: 20,
   },
   title: {
     backgroundColor: "gray",
     textAlign: "center",
     paddingVertical: 15,
-    borderRadius: 15,
+    borderRadius: 25,
     color: "white",
     fontWeight: "500",
-    marginBottom: 10,
+    marginBottom: 15,
   },
   cardFlatList: {
     width: "100%",
